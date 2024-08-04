@@ -1,0 +1,60 @@
+{
+  "profesores": [
+    {
+      "nombre": "Serguie",
+      "Apellido": "Aguirre",
+      "Materias": [
+        {
+          "Nombre": "Node Js"
+        },
+        {
+          "Nombre": "Python"
+        },
+        {
+          "Nombre": "java"
+        }
+      ],
+      "id": "9603"
+    }
+  ],
+  "Alumnos": [
+    {
+      "Nombre": "Luis",
+      "Apellido": "Barrantes",
+      "promedio": 20,
+      "id": "cc59"
+    },
+    {
+      "Nombre": "Nicol",
+      "Apellido": "Aguirre",
+      "promedio": 17,
+      "id": "c3c4"
+    },
+    {
+      "id": "94cb",
+      "Nombre": "Katherine",
+      "Apellido": "Bustamante",
+      "promedio": 18
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "JavaScript",
+      "duracion": "3h",
+      "dificultad": "Media",
+      "id": "9e2b"
+    },
+    {
+      "nombre": "Node Js",
+      "duracion": "3h",
+      "dificultad": "Media-Alta",
+      "id": "fa87"
+    },
+    {
+      "nombre": "Python",
+      "duracion": "2h",
+      "dificultad": "Baja",
+      "id": "993e"
+    }
+  ]
+}
